@@ -1,5 +1,10 @@
 ## Gen AI project - Chat with SQL DB with Langchain SQLTookit and Agent
 
+Chat with the agent her: https://zankhanas-sql-agent.streamlit.app/
+
+You wil need to create a API for yourself from here https://console.groq.com/keys
+
+I have new ideas to improve this project to make it more seamless which wil be implemented soon. For now you can directly interact with the database (eg. how many rows or columns it database has).
 ### Objective:
 
 The app enables users to "chat" with a SQL database (either SQLite or MySQL) by asking questions in natural language. The system interprets the queries, retrieves the relevant data, and provides answers in a conversational manner.
