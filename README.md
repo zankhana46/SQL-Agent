@@ -1,6 +1,6 @@
 ## Gen AI project - Chat with SQL DB with Langchain SQLTookit and Agent
 
-Chat with the agent her: https://zankhanas-sql-agent.streamlit.app/
+Chat with the agent here: https://zankhanas-sql-agent.streamlit.app/
 
 You wil need to create a API for yourself from here https://console.groq.com/keys
 
